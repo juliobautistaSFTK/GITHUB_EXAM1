@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hola mundo desde participante JBCR, despues del pull request! E1" );
+        System.out.println( "Hola mundo desde participante JBCR, despues del pull request! Entrega inicial" );
     }
 }
